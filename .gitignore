@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+logs/
+kaggle.json
+.env
+.ipynb_checkpoints/
+
+# Large datasets: keep them in this folder
+data/large/
