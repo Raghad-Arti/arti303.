@@ -3,7 +3,7 @@
 
 **Computer Engineering Department**
 
-Lab material for ARTI 303. Each folder contains a `README.md` and a notebook for students.
+This repository contains my lab notebooks and supporting project files for ARTI 303.
 
 ## Course overview
 
@@ -13,9 +13,10 @@ This lab teaching Python programming in the context of AI development — data h
 
 | Lab | Topic | Week |
 |---|---|---|
-| [lab01](./lab01) | Building Your AI Development Environment | 1 |
-| [lab02](./lab02) | Python 2 & Your First Module | 2 |
-| [lab03](lab03.ipynb) | Environments, Project Structure & Reliable | 3 |
+| [Lab 01](./lab01/lab01.ipynb) | Building Your AI Development Environment | 1 |
+| [Lab 02](./lab02-updated/lab02.ipynb) | Python 2 & Your First Module | 2 |
+| [Lab 03](./lab03.ipynb) | Environments, Project Structure & Reliable Code | 3 |
+| [Lab 04](./lab04.ipynb) | NumPy | 4 |
 
 ## How to use this repo
 
