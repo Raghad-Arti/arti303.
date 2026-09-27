@@ -1,7 +1,6 @@
 .venv/
 __pycache__/
-logs/*
-!logs/.gitkeep
+logs/
 kaggle.json
 .env
 .ipynb_checkpoints/
