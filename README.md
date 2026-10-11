@@ -3,7 +3,7 @@
 
 **Computer Engineering Department**
 
-This repository contains my lab notebooks and supporting project files for ARTI 303.
+Lab material for ARTI 303. Each folder contains a `README.md` and a notebook for students.
 
 ## Course overview
 
@@ -13,10 +13,20 @@ This lab teaching Python programming in the context of AI development — data h
 
 | Lab | Topic | Week |
 |---|---|---|
-| [Lab 01](./lab01/lab01.ipynb) | Building Your AI Development Environment | 1 |
-| [Lab 02](./lab02-updated/lab02.ipynb) | Python 2 & Your First Module | 2 |
-| [Lab 03](./lab03.ipynb) | Environments, Project Structure & Reliable Code | 3 |
-| [Lab 04](./lab04.ipynb) | NumPy | 4 |
+| [lab01](./lab01) | Building Your AI Development Environment | 1 |
+| [lab02](./lab02-updated/lab02.ipynb) | Python Essentials | 2 |
+| [lab03](lab03.ipynb) | Software Engineering for AI | 3 |
+| [lab04](lab04.ipynb) | Scientific Computing with NumPy | 4 |
+| [lab05](lab05.ipynb) | Data Engineering with Pandas | 5 |
+| [lab06](lab06.ipynb) | Data Visualization & EDA | 6 |
+<!--| [lab07](lab07.ipynb) | Data Preprocessing | 7 | -->
+<!--| [lab08](lab08.ipynb) | Programming with AI Frameworks | 8 | -->
+<!--| [lab09](lab09.ipynb) | Computer Vision Programming | 9 | -->
+<!--| [lab10](lab10.ipynb) | Natural Language Programming | 10 | -->
+<!--| [lab11](lab11.ipynb) | Programming with Sequential Data | 11 | -->
+<!--| [lab12](lab12.ipynb) | Modern AI Development | 12 | -->
+<!--| [lab13](./lab13) | Project Workshop | 13 | -->
+
 
 ## How to use this repo
 
